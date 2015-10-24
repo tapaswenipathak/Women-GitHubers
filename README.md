@@ -28,6 +28,8 @@ Inspired by a comment on a [Quora Answer] (https://www.quora.com/How-well-does-G
 
 [rmurphey] (https://github.com/rmurphey)
 
+[sharon-lin] (https://github.com/sharon-lin)
+
 [sindhus] (https://github.com/sindhus)
 
 [thefoxis] (https://github.com/thefoxis)
