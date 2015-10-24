@@ -1,6 +1,13 @@
 # Women-GitHubers
 Inspired by a comment on a [Quora Answer] (https://www.quora.com/How-well-does-GitHub-profile-help-programmers/answer/Tapasweni-Pathak) I wrote, I will include the link to Women GitHubers here.
 
+[kcunning] (https://github.com/kcunning)
+
+[rallytime] (https://github.com/rallytime)
+
+[patjouk] (https://github.com/patjouk)
+
+[econchick] (https://github.com/econchick)
 
 [ana-balica] (https://github.com/ana-balica)
 
