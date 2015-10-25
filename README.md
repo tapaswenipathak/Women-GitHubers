@@ -45,6 +45,8 @@ Inspired by a comment on a [Quora Answer] (https://www.quora.com/How-well-does-G
 
 [thefoxis] (https://github.com/thefoxis)
 
+[tpinecone] (https://github.com/tpinecone)
+
 [willingc] (https://github.com/willingc)
 
 [y4smeen] (https://github.com/y4smeen)
