@@ -5,11 +5,15 @@ Inspired by a comment on a [Quora Answer] (https://www.quora.com/How-well-does-G
 
 [aniav] (https://github.com/aniav)
 
+[audreyr] (https://github.com/audreyr)
+
 [chiuki] (https://github.com/chiuki)
 
 [cranberryofdoom] (https://github.com/cranberryofdoom)
 
 [econchick] (https://github.com/econchick)
+
+[ehashman] (https://github.com/ehashman)
 
 [exploreshaifali] (https://github.com/exploreshaifali)
 
@@ -38,6 +42,8 @@ Inspired by a comment on a [Quora Answer] (https://www.quora.com/How-well-does-G
 [rmurphey] (https://github.com/rmurphey)
 
 [sharon-lin] (https://github.com/sharon-lin)
+
+[shaunagm] (https://github.com/shaunagm)
 
 [sindhus] (https://github.com/sindhus)
 
