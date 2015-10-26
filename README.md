@@ -1,5 +1,5 @@
 # Women-GitHubers
-Inspired by a comment on a [Quora Answer] (https://www.quora.com/How-well-does-GitHub-profile-help-programmers/answer/Tapasweni-Pathak) I wrote, I will include the link to Women GitHubers here.
+Let's collect the data of Woman on GitHub, who inspired you to code more, learn more.
 
 [ana-balica] (https://github.com/ana-balica)
 
