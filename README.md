@@ -59,6 +59,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Rashmi Yadav] (https://github.com/raysrashmi)
 
+[Kirti Thorat] (https://github.com/kirtithorat)
+
 
 
 
