@@ -17,6 +17,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [econchick] (https://github.com/econchick)
 
+[emmajane] (https://github.com/emmajane)
+
 [ehashman] (https://github.com/ehashman)
 
 [exploreshaifali] (https://github.com/exploreshaifali)
@@ -63,9 +65,13 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [tpinecone] (https://github.com/tpinecone)
 
+[webchick] (https://github.com/webchick)
+
 [willingc] (https://github.com/willingc)
 
 [y4smeen] (https://github.com/y4smeen)
+
+[YesCT] (https://github.com/YesCT)
 
 [Rashmi Yadav] (https://github.com/raysrashmi)
 
