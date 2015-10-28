@@ -39,6 +39,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [nlhkabu] (https://github.com/nlhkabu)
 
+[nrrrdcore] https://github.com/nrrrdcore)
+
 [olasitarska] (https://github.com/olasitarska)
 
 [patjouk] (https://github.com/patjouk)
