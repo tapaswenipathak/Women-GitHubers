@@ -1,9 +1,13 @@
 # Women-GitHubers
 Let's collect the data of Woman on GitHub, who inspired you to code more, learn more.
 
+[amandaharlin] (https://github.com/amandaharlin)
+
 [ana-balica] (https://github.com/ana-balica)
 
 [aniav] (https://github.com/aniav)
+
+[ashleygwilliams] (https://github.com/ashleygwilliams)
 
 [audreyr] (https://github.com/audreyr)
 
@@ -21,7 +25,11 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [hollyschinsky] (https://github.com/hollyschinsky)
 
+[LeaVerou] (https://github.com/LeaVerou)
+
 [loiane] (https://github.com/loiane)
+
+[jennschiffer] (https://github.com/jennschiffer)
 
 [jig08] (https://github.com/jig08)
 
@@ -46,6 +54,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [shaunagm] (https://github.com/shaunagm)
 
 [sindhus] (https://github.com/sindhus)
+
+[snipe] (https://github.com/snipe)
 
 [tapasweni-pathak](https://github.com/tapasweni-pathak)
 
