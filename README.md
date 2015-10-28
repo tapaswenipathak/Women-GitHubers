@@ -61,7 +61,7 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Kirti Thorat] (https://github.com/kirtithorat)
 
-
+[Mary Rose Cook] (https://github.com/maryrosecook)
 
 
 
