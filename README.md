@@ -19,11 +19,15 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [ehashman] (https://github.com/ehashman)
 
+[Eleonore9] (https://github.com/Eleonore9)
+
 [exploreshaifali] (https://github.com/exploreshaifali)
 
 [helenst] (https://github.com/helenst)
 
 [hollyschinsky] (https://github.com/hollyschinsky)
+
+[kytrinyx] (https://github.com/kytrinyx)
 
 [LeaVerou] (https://github.com/LeaVerou)
 
