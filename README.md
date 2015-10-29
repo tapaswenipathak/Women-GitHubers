@@ -55,6 +55,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [rmurphey] (https://github.com/rmurphey)
 
+[rmw](https://github.com/rmw)
+
 [sharon-lin] (https://github.com/sharon-lin)
 
 [shaunagm] (https://github.com/shaunagm)
@@ -62,6 +64,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [sindhus] (https://github.com/sindhus)
 
 [snipe] (https://github.com/snipe)
+
+[tanyaschlusser](https://github.com/tanyaschlusser)
 
 [tapasweni-pathak](https://github.com/tapasweni-pathak)
 
