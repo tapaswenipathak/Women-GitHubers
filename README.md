@@ -23,6 +23,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [exploreshaifali] (https://github.com/exploreshaifali)
 
+[hbrysiewicz] (https://github.com/hbrysiewicz)
+
 [helenst] (https://github.com/helenst)
 
 [hollyschinsky] (https://github.com/hollyschinsky)
@@ -50,6 +52,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [patjouk] (https://github.com/patjouk)
 
 [phoenixperry] (https://github.com/phoenixperry)
+
+[poteto] (https://github.com/poteto)
 
 [rallytime] (https://github.com/rallytime)
 
