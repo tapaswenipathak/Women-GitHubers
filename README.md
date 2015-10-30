@@ -7,6 +7,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [aniav] (https://github.com/aniav)
 
+[aredridel] (https://github.com/aredridel)
+
 [ashleygwilliams] (https://github.com/ashleygwilliams)
 
 [audreyr] (https://github.com/audreyr)
