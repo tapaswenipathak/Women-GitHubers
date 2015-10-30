@@ -47,7 +47,7 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [nlhkabu] (https://github.com/nlhkabu)
 
-[nrrrdcore] https://github.com/nrrrdcore)
+[nrrrdcore] (https://github.com/nrrrdcore)
 
 [olasitarska] (https://github.com/olasitarska)
 
@@ -94,8 +94,3 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [Kirti Thorat] (https://github.com/kirtithorat)
 
 [Mary Rose Cook] (https://github.com/maryrosecook)
-
-
-
-
-
