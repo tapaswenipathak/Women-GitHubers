@@ -71,6 +71,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [snipe] (https://github.com/snipe)
 
+[svaksha] (https://github.com/svaksha)
+
 [tanyaschlusser](https://github.com/tanyaschlusser)
 
 [tapasweni-pathak](https://github.com/tapasweni-pathak)
