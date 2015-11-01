@@ -1,98 +1,98 @@
 # Women-GitHubers
 Let's collect the data of Woman on GitHub, who inspired you to code more, learn more.
 
-[amandaharlin] (https://github.com/amandaharlin)
+[amandaharlin](https://github.com/amandaharlin)
 
-[ana-balica] (https://github.com/ana-balica)
+[ana-balica](https://github.com/ana-balica)
 
-[aniav] (https://github.com/aniav)
+[aniav](https://github.com/aniav)
 
-[aredridel] (https://github.com/aredridel)
+[aredridel](https://github.com/aredridel)
 
-[ashleygwilliams] (https://github.com/ashleygwilliams)
+[ashleygwilliams](https://github.com/ashleygwilliams)
 
-[audreyr] (https://github.com/audreyr)
+[audreyr](https://github.com/audreyr)
 
-[chiuki] (https://github.com/chiuki)
+[chiuki](https://github.com/chiuki)
 
-[cranberryofdoom] (https://github.com/cranberryofdoom)
+[cranberryofdoom](https://github.com/cranberryofdoom)
 
-[econchick] (https://github.com/econchick)
+[econchick](https://github.com/econchick)
 
-[emmajane] (https://github.com/emmajane)
+[emmajane](https://github.com/emmajane)
 
-[ehashman] (https://github.com/ehashman)
+[ehashman](https://github.com/ehashman)
 
-[Eleonore9] (https://github.com/Eleonore9)
+[Eleonore9](https://github.com/Eleonore9)
 
-[exploreshaifali] (https://github.com/exploreshaifali)
+[exploreshaifali](https://github.com/exploreshaifali)
 
-[hbrysiewicz] (https://github.com/hbrysiewicz)
+[hbrysiewicz](https://github.com/hbrysiewicz)
 
-[helenst] (https://github.com/helenst)
+[helenst](https://github.com/helenst)
 
-[hollyschinsky] (https://github.com/hollyschinsky)
+[hollyschinsky](https://github.com/hollyschinsky)
 
-[kytrinyx] (https://github.com/kytrinyx)
+[kytrinyx](https://github.com/kytrinyx)
 
-[LeaVerou] (https://github.com/LeaVerou)
+[LeaVerou](https://github.com/LeaVerou)
 
-[loiane] (https://github.com/loiane)
+[loiane](https://github.com/loiane)
 
-[jennschiffer] (https://github.com/jennschiffer)
+[jennschiffer](https://github.com/jennschiffer)
 
-[jig08] (https://github.com/jig08)
+[jig08](https://github.com/jig08)
 
-[kcunning] (https://github.com/kcunning)
+[kcunning](https://github.com/kcunning)
 
-[Nerdylicious] (https://github.com/Nerdylicious)
+[Nerdylicious](https://github.com/Nerdylicious)
 
-[nlhkabu] (https://github.com/nlhkabu)
+[nlhkabu](https://github.com/nlhkabu)
 
-[nrrrdcore] (https://github.com/nrrrdcore)
+[nrrrdcore](https://github.com/nrrrdcore)
 
-[olasitarska] (https://github.com/olasitarska)
+[olasitarska](https://github.com/olasitarska)
 
-[patjouk] (https://github.com/patjouk)
+[patjouk](https://github.com/patjouk)
 
-[phoenixperry] (https://github.com/phoenixperry)
+[phoenixperry](https://github.com/phoenixperry)
 
-[poteto] (https://github.com/poteto)
+[poteto](https://github.com/poteto)
 
-[rallytime] (https://github.com/rallytime)
+[rallytime](https://github.com/rallytime)
 
-[rmurphey] (https://github.com/rmurphey)
+[rmurphey](https://github.com/rmurphey)
 
 [rmw](https://github.com/rmw)
 
-[sharon-lin] (https://github.com/sharon-lin)
+[sharon-lin](https://github.com/sharon-lin)
 
-[shaunagm] (https://github.com/shaunagm)
+[shaunagm](https://github.com/shaunagm)
 
-[sindhus] (https://github.com/sindhus)
+[sindhus](https://github.com/sindhus)
 
-[snipe] (https://github.com/snipe)
+[snipe](https://github.com/snipe)
 
-[svaksha] (https://github.com/svaksha)
+[svaksha](https://github.com/svaksha)
 
 [tanyaschlusser](https://github.com/tanyaschlusser)
 
 [tapasweni-pathak](https://github.com/tapasweni-pathak)
 
-[thefoxis] (https://github.com/thefoxis)
+[thefoxis](https://github.com/thefoxis)
 
-[tpinecone] (https://github.com/tpinecone)
+[tpinecone](https://github.com/tpinecone)
 
-[webchick] (https://github.com/webchick)
+[webchick](https://github.com/webchick)
 
-[willingc] (https://github.com/willingc)
+[willingc](https://github.com/willingc)
 
-[y4smeen] (https://github.com/y4smeen)
+[y4smeen](https://github.com/y4smeen)
 
-[YesCT] (https://github.com/YesCT)
+[YesCT](https://github.com/YesCT)
 
-[Rashmi Yadav] (https://github.com/raysrashmi)
+[Rashmi Yadav](https://github.com/raysrashmi)
 
-[Kirti Thorat] (https://github.com/kirtithorat)
+[Kirti Thorat](https://github.com/kirtithorat)
 
-[Mary Rose Cook] (https://github.com/maryrosecook)
+[Mary Rose Cook](https://github.com/maryrosecook)
