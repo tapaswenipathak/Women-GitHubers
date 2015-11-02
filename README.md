@@ -1,6 +1,8 @@
 # Women-GitHubers
 Let's collect the data of Woman on GitHub, who inspired you to code more, learn more.
 
+**Note:** Please maintain the below list in alphabetical order.
+
 [amandaharlin](https://github.com/amandaharlin)
 
 [ana-balica](https://github.com/ana-balica)
@@ -19,11 +21,11 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [econchick](https://github.com/econchick)
 
-[emmajane](https://github.com/emmajane)
-
 [ehashman](https://github.com/ehashman)
 
 [Eleonore9](https://github.com/Eleonore9)
+
+[emmajane](https://github.com/emmajane)
 
 [exploreshaifali](https://github.com/exploreshaifali)
 
@@ -33,17 +35,21 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [hollyschinsky](https://github.com/hollyschinsky)
 
+[jennschiffer](https://github.com/jennschiffer)
+
+[jig08](https://github.com/jig08)
+
+[kcunning](https://github.com/kcunning)
+
+[Kirti Thorat](https://github.com/kirtithorat)
+
 [kytrinyx](https://github.com/kytrinyx)
 
 [LeaVerou](https://github.com/LeaVerou)
 
 [loiane](https://github.com/loiane)
 
-[jennschiffer](https://github.com/jennschiffer)
-
-[jig08](https://github.com/jig08)
-
-[kcunning](https://github.com/kcunning)
+[Mary Rose Cook](https://github.com/maryrosecook)
 
 [Nerdylicious](https://github.com/Nerdylicious)
 
@@ -60,6 +66,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [poteto](https://github.com/poteto)
 
 [rallytime](https://github.com/rallytime)
+
+[Rashmi Yadav](https://github.com/raysrashmi)
 
 [rmurphey](https://github.com/rmurphey)
 
@@ -90,9 +98,3 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [y4smeen](https://github.com/y4smeen)
 
 [YesCT](https://github.com/YesCT)
-
-[Rashmi Yadav](https://github.com/raysrashmi)
-
-[Kirti Thorat](https://github.com/kirtithorat)
-
-[Mary Rose Cook](https://github.com/maryrosecook)
