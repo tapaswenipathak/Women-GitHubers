@@ -9,6 +9,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [aniav](https://github.com/aniav)
 
+[Anuja Kumar](https://github.com/AnujaK)
+
 [aredridel](https://github.com/aredridel)
 
 [ashleygwilliams](https://github.com/ashleygwilliams)
@@ -72,6 +74,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [rmurphey](https://github.com/rmurphey)
 
 [rmw](https://github.com/rmw)
+
+[Sarah Mei](https://github.com/sarahmei)
 
 [sharon-lin](https://github.com/sharon-lin)
 
