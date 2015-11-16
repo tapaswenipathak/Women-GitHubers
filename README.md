@@ -5,6 +5,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [amandaharlin](https://github.com/amandaharlin)
 
+[Amber Yust](https://github.com/ayust)
+
 [ana-balica](https://github.com/ana-balica)
 
 [aniav](https://github.com/aniav)
@@ -55,6 +57,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Nerdylicious](https://github.com/Nerdylicious)
 
+[nirea](https://github.com/nirea)
+
 [nlhkabu](https://github.com/nlhkabu)
 
 [nrrrdcore](https://github.com/nrrrdcore)
@@ -68,6 +72,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [poteto](https://github.com/poteto)
 
 [rallytime](https://github.com/rallytime)
+
+[Raquel Vélez](https://github.com/rockbot)
 
 [Rashmi Yadav](https://github.com/raysrashmi)
 
