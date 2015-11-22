@@ -3,6 +3,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 **Note:** Please maintain the below list in alphabetical order.
 
+[alicetragedy](https://github.com/alicetragedy)
+              
 [amandaharlin](https://github.com/amandaharlin)
 
 [Amber Yust](https://github.com/ayust)
@@ -10,6 +12,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [ana-balica](https://github.com/ana-balica)
 
 [aniav](https://github.com/aniav)
+
+[anikalindtner](https://github.com/anikalindtner)
 
 [Anuja Kumar](https://github.com/AnujaK)
 
@@ -49,6 +53,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [kytrinyx](https://github.com/kytrinyx)
 
+[Laura Frank](https://github.com/rheinwein)
+
 [LeaVerou](https://github.com/LeaVerou)
 
 [loiane](https://github.com/loiane)
@@ -86,6 +92,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [rmw](https://github.com/rmw)
 
 [Sarah Mei](https://github.com/sarahmei)
+
+[sareg0](https://github.com/sareg0)
 
 [sharon-lin](https://github.com/sharon-lin)
 
