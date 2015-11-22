@@ -35,6 +35,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [emmajane](https://github.com/emmajane)
 
+[emmanuelle](https://github.com/emmanuelle)
+
 [exploreshaifali](https://github.com/exploreshaifali)
 
 [hbrysiewicz](https://github.com/hbrysiewicz)
