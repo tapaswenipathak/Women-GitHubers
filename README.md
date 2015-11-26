@@ -49,7 +49,11 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [jennschiffer](https://github.com/jennschiffer)
 
+[Jess Frazelle](https://github.com/jfrazelle)
+
 [jig08](https://github.com/jig08)
+
+[Julia Evans](https://github.com/jvns)
 
 [kcunning](https://github.com/kcunning)
 
