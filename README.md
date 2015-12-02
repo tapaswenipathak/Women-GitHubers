@@ -3,6 +3,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 **Note:** Please maintain the below list in alphabetical order.
 
+[alicetragedy](https://github.com/alicetragedy)
+              
 [amandaharlin](https://github.com/amandaharlin)
 
 [Amber Yust](https://github.com/ayust)
@@ -11,6 +13,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [aniav](https://github.com/aniav)
 
+[anikalindtner](https://github.com/anikalindtner)
+
 [Anuja Kumar](https://github.com/AnujaK)
 
 [aredridel](https://github.com/aredridel)
@@ -18,6 +22,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [ashleygwilliams](https://github.com/ashleygwilliams)
 
 [audreyr](https://github.com/audreyr)
+
+[audreyt](https://github.com/audreyt)
 
 [chiuki](https://github.com/chiuki)
 
@@ -31,6 +37,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [emmajane](https://github.com/emmajane)
 
+[emmanuelle](https://github.com/emmanuelle)
+
 [exploreshaifali](https://github.com/exploreshaifali)
 
 [hbrysiewicz](https://github.com/hbrysiewicz)
@@ -41,7 +49,11 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [jennschiffer](https://github.com/jennschiffer)
 
+[Jess Frazelle](https://github.com/jfrazelle)
+
 [jig08](https://github.com/jig08)
+
+[Julia Evans](https://github.com/jvns)
 
 [kcunning](https://github.com/kcunning)
 
@@ -49,11 +61,15 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [kytrinyx](https://github.com/kytrinyx)
 
+[Laura Frank](https://github.com/rheinwein)
+
 [LeaVerou](https://github.com/LeaVerou)
 
 [loiane](https://github.com/loiane)
 
 [Mary Rose Cook](https://github.com/maryrosecook)
+
+[Misty De Meo](https://github.com/mistydemeo)
 
 [mrrrgn](https://github.com/mrrrgn)
 
@@ -86,6 +102,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [rmw](https://github.com/rmw)
 
 [Sarah Mei](https://github.com/sarahmei)
+
+[sareg0](https://github.com/sareg0)
 
 [sharon-lin](https://github.com/sharon-lin)
 
