@@ -59,6 +59,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Julia Evans](https://github.com/jvns)
 
+[katydecorah](https://github.com/katydecorah)
+
 [kcunning](https://github.com/kcunning)
 
 [Kirti Thorat](https://github.com/kirtithorat)
@@ -126,6 +128,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [tapasweni-pathak](https://github.com/tapasweni-pathak)
 
 [thefoxis](https://github.com/thefoxis)
+
+[thatdocslady](https://github.com/thatdocslady)
 
 [tpinecone](https://github.com/tpinecone)
 
