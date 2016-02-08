@@ -67,11 +67,9 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Julia Evans](https://github.com/jvns)
 
-<<<<<<< HEAD
 [Kathryn Hodge](https://github.com/blondiebytes)
-=======
+
 [katydecorah](https://github.com/katydecorah)
->>>>>>> 5ef61c32b1bd2a3fea04a396277b73183aa7ac23
 
 [kcunning](https://github.com/kcunning)
 
