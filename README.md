@@ -9,6 +9,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Amber Yust](https://github.com/ayust)
 
+[Amitoj Kaur Chawla](https://github.com/musicakc)
+
 [ana-balica](https://github.com/ana-balica)
 
 [aniav](https://github.com/aniav)
@@ -33,6 +35,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [cranberryofdoom](https://github.com/cranberryofdoom)
 
+[csvoss](https://github.com/csvoss)
+
 [econchick](https://github.com/econchick)
 
 [ehashman](https://github.com/ehashman)
@@ -44,6 +48,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [emmanuelle](https://github.com/emmanuelle)
 
 [exploreshaifali](https://github.com/exploreshaifali)
+
+[gonsie](https://github.com/gonsie)
 
 [hbrysiewicz](https://github.com/hbrysiewicz)
 
@@ -61,7 +67,11 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Julia Evans](https://github.com/jvns)
 
+<<<<<<< HEAD
 [Kathryn Hodge](https://github.com/blondiebytes)
+=======
+[katydecorah](https://github.com/katydecorah)
+>>>>>>> 5ef61c32b1bd2a3fea04a396277b73183aa7ac23
 
 [kcunning](https://github.com/kcunning)
 
@@ -78,6 +88,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [Mary Rose Cook](https://github.com/maryrosecook)
 
 [Misty De Meo](https://github.com/mistydemeo)
+
+[mrrrgn](https://github.com/mrrrgn)
 
 [Nerdylicious](https://github.com/Nerdylicious)
 
@@ -107,6 +119,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [rmw](https://github.com/rmw)
 
+[RobinSmithCA](https://github.com/robinsmithca)
+
 [Sarah Mei](https://github.com/sarahmei)
 
 [sareg0](https://github.com/sareg0)
@@ -126,6 +140,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [tapasweni-pathak](https://github.com/tapasweni-pathak)
 
 [thefoxis](https://github.com/thefoxis)
+
+[thatdocslady](https://github.com/thatdocslady)
 
 [tpinecone](https://github.com/tpinecone)
 
