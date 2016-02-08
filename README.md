@@ -9,6 +9,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Amber Yust](https://github.com/ayust)
 
+[Amitoj Kaur Chawla](https://github.com/musicakc)
+
 [ana-balica](https://github.com/ana-balica)
 
 [aniav](https://github.com/aniav)
