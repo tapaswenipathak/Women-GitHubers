@@ -21,11 +21,15 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [aredridel](https://github.com/aredridel)
 
+[Ari VanIderstine](https://github.com/arirawr)
+
 [ashleygwilliams](https://github.com/ashleygwilliams)
 
 [audreyr](https://github.com/audreyr)
 
 [audreyt](https://github.com/audreyt)
+
+[Cassidy Williams](https://github.com/cassidoo)
 
 [chiuki](https://github.com/chiuki)
 
@@ -53,6 +57,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [hollyschinsky](https://github.com/hollyschinsky)
 
+[Jennifer Apacible](https://github.com/japacible)
+
 [jennschiffer](https://github.com/jennschiffer)
 
 [Jess Frazelle](https://github.com/jfrazelle)
@@ -60,6 +66,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [jig08](https://github.com/jig08)
 
 [Julia Evans](https://github.com/jvns)
+
+[Kathryn Hodge](https://github.com/blondiebytes)
 
 [katydecorah](https://github.com/katydecorah)
 
