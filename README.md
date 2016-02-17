@@ -31,6 +31,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [audreyt](https://github.com/audreyt)
 
+[Bhavika Tekwani](https://github.com/bhavikat)
+
 [Cassidy Williams](https://github.com/cassidoo)
 
 [chiuki](https://github.com/chiuki)
@@ -69,6 +71,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [jig08](https://github.com/jig08)
 
+[Joanna Rutkowska](https://github.com/rootkovska)
+
 [Julia Evans](https://github.com/jvns)
 
 [Kathryn Hodge](https://github.com/blondiebytes)
@@ -89,7 +93,11 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Mary Rose Cook](https://github.com/maryrosecook)
 
+[Maxime Chevalier-Boisvert](https://github.com/maximecb)
+
 [Misty De Meo](https://github.com/mistydemeo)
+
+[Molly Everett](https://github.com/mollymorphic)
 
 [mrrrgn](https://github.com/mrrrgn)
 
