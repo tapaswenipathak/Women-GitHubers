@@ -61,6 +61,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [hollyschinsky](https://github.com/hollyschinsky)
 
+[Jackie Luo](https://github.com/jackiehluo)
+
 [Jennifer Apacible](https://github.com/japacible)
 
 [jennschiffer](https://github.com/jennschiffer)
@@ -132,6 +134,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [sharon-lin](https://github.com/sharon-lin)
 
 [shaunagm](https://github.com/shaunagm)
+
+[shubheksha](https://github.com/shubheksha)
 
 [sindhus](https://github.com/sindhus)
 
