@@ -67,6 +67,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Jess Frazelle](https://github.com/jfrazelle)
 
+[Jessica Lord](https://github.com/jlord)
+
 [jig08](https://github.com/jig08)
 
 [Julia Evans](https://github.com/jvns)
