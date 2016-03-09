@@ -97,6 +97,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [nirea](https://github.com/nirea)
 
+[Niharika Kohli](https://github.com/Niharika29)
+
 [Nitika Agarwal](https://github.com/NitikaAgarwal)
 
 [nlhkabu](https://github.com/nlhkabu)
