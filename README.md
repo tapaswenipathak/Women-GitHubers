@@ -59,6 +59,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [helenst](https://github.com/helenst)
 
+[henadaus](https://github.com/henadaus)
+
 [hollyschinsky](https://github.com/hollyschinsky)
 
 [Jennifer Apacible](https://github.com/japacible)
