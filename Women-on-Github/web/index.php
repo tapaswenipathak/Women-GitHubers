@@ -24,14 +24,13 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <?php
-    // credentials of the database used by the scheduler
     $dsn = "pgsql:"
-                . "host=###############.compute-1.amazonaws.com;"
-                . "dbname=##############;"
-                . "user=##############;"
+                . "host=ec2-54-83-56-31.compute-1.amazonaws.com;"
+                . "dbname=d7uvfop9iiel16;"
+                . "user=hnnhtvgaonpcjv;"
                 . "port=5432;"
                 . "sslmode=require;"
-                . "password=##########################";
+                . "password=HF442zMqDStyBz9-3RqWbhAFxL";
 
             $db = new PDO($dsn);
             $query = "SELECT * FROM users ORDER BY login";
@@ -192,6 +191,7 @@
           <!-- Navigation -->
           <div class="android-navigation-container">
             <nav class="android-navigation mdl-navigation">
+              <a class="mdl-navigation__link mdl-typography--text-uppercase" href="https://medium.com/@TapasweniPathak/how-about-knowing-more-92680979a94b#.qxzlfw9k9" target="_blank">About</a>
               <a class="mdl-navigation__link mdl-typography--text-uppercase" href="https://github.com/tapasweni-pathak/Women-GitHubers" target="_blank">View on Github</a>
             </nav>
           </div>
@@ -296,6 +296,6 @@
     </div>
     <script src="material.min.js"></script>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1"> <defs> <filter id="shadowed-goo"> <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="10" /> <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo" /> <feGaussianBlur in="goo" stdDeviation="3" result="shadow" /> <feColorMatrix in="shadow" mode="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 -0.2" result="shadow" /> <feOffset in="shadow" dx="1" dy="1" result="shadow" /> <feComposite in2="shadow" in="goo" result="goo" /> <feComposite in2="goo" in="SourceGraphic" result="mix" /> </filter> <filter id="goo"> <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="10" /> <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo" /> <feComposite in2="goo" in="SourceGraphic" result="mix" /> </filter> </defs> </svg>
-<script src='http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 </body>
 </html>
