@@ -92,6 +92,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [kcunning](https://github.com/kcunning)
 
+[Kesha Shah](https://github.com/keshashah)
+
 [Kirti Thorat](https://github.com/kirtithorat)
 
 [kytrinyx](https://github.com/kytrinyx)
