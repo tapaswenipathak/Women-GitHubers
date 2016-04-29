@@ -164,6 +164,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [snipe](https://github.com/snipe)
 
+[Swati Maheshwari](https://github.com/SwatiMaheshwari)
+
 [Sushmita Singh](https://github.com/wallflower1)
 
 [svaksha](https://github.com/svaksha)
