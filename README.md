@@ -44,6 +44,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [csvoss](https://github.com/csvoss)
 
+[Damini Satya](https://github.com/daminisatya)
+
 [Divya Upadhyay](https://github.com/divyaupadhyay)
 
 [econchick](https://github.com/econchick)
