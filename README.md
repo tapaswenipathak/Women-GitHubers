@@ -3,195 +3,195 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 **Note**: Please maintain the below list in alphabetical order.
 
+Laura ([alicetragedy](https://github.com/alicetragedy))
 
-[alicetragedy](https://github.com/alicetragedy)
-              
-[amandaharlin](https://github.com/amandaharlin)
+Amanda Harlin ([amandaharlin](https://github.com/amandaharlin))
 
-[Amber Yust](https://github.com/ayust)
+Amber Yust ([ayust](https://github.com/ayust))
 
-[Amitoj Kaur Chawla](https://github.com/musicakc)
+Amitoj Kaur Chawla ([musicakc](https://github.com/musicakc))
 
-[ana-balica](https://github.com/ana-balica)
+Ana Balica ([ana-balica](https://github.com/ana-balica))
 
-[aniav](https://github.com/aniav)
+Anna Warzecha ([aniav](https://github.com/aniav))
 
-[anikalindtner](https://github.com/anikalindtner)
+Anika ([anikalindtner](https://github.com/anikalindtner))
 
-[Ankita Shukla](https://github.com/ankitashukla)
+Ankita Shukla ([ankitashukla](https://github.com/ankitashukla))
 
-[Anuja Kumar](https://github.com/AnujaK)
+Anuja Kumar ([AnujaK](https://github.com/AnujaK))
 
-[aredridel](https://github.com/aredridel)
+Aria Stewart ([aredridel](https://github.com/aredridel))
 
-[Ari VanIderstine](https://github.com/arirawr)
+Ari VanIderstine ([arirawr](https://github.com/arirawr))
 
-[ashleygwilliams](https://github.com/ashleygwilliams)
+Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
 
-[audreyr](https://github.com/audreyr)
+Audrey Roy Greenfeld ([audreyr](https://github.com/audreyr))
 
-[audreyt](https://github.com/audreyt)
+唐鳳 ([audreyt](https://github.com/audreyt))
 
-[Bhavika Tekwani](https://github.com/bhavikat)
+Bhavika Tekwani ([bhavikat](https://github.com/bhavikat))
 
-[Cassidy Williams](https://github.com/cassidoo)
+Cassidy Williams ([cassidoo](https://github.com/cassidoo))
 
-[chiuki](https://github.com/chiuki)
+Chiu-Ki Chan ([chiuki](https://github.com/chiuki))
 
-[chhavip](https://github.com/chhavip)
+Chhavi P. Gupta ([chhavip](https://github.com/chhavip))
 
-[cranberryofdoom](https://github.com/cranberryofdoom)
+Ashley Qian ([cranberryofdoom](https://github.com/cranberryofdoom))
 
-[csvoss](https://github.com/csvoss)
+Chelsea Voss ([csvoss](https://github.com/csvoss))
 
-[Damini Satya](https://github.com/daminisatya)
+Damini Satya ([daminisatya](https://github.com/daminisatya))
 
-[Divya Upadhyay](https://github.com/divyaupadhyay)
+Divya Upadhyay ([divyaupadhyay](https://github.com/divyaupadhyay))
 
-[econchick](https://github.com/econchick)
+Lynn Root ([econchick](https://github.com/econchick))
 
-[ehashman](https://github.com/ehashman)
+Elana Hashman ([ehashman](https://github.com/ehashman))
 
-[Eleonore9](https://github.com/Eleonore9)
+Eleonore ([Eleonore9](https://github.com/Eleonore9))
 
-[emmajane](https://github.com/emmajane)
+Emma Jane ([emmajane](https://github.com/emmajane))
 
-[emmanuelle](https://github.com/emmanuelle)
+Emmanuelle Gouillart ([emmanuelle](https://github.com/emmanuelle))
 
-[exploreshaifali](https://github.com/exploreshaifali)
+Shaifali Agrawal ([exploreshaifali](https://github.com/exploreshaifali))
 
-[Farheen Nilofer](https://github.com/Farheen2302)
+Farheen Nilofer ([Farheen2302](https://github.com/Farheen2302))
 
-[gonsie](https://github.com/gonsie)
+Elsa Gonsiorowski ([gonsie](https://github.com/gonsie))
 
-[hbrysiewicz](https://github.com/hbrysiewicz)
+Heather Brysiewicz ([hbrysiewicz](https://github.com/hbrysiewicz))
 
-[helenst](https://github.com/helenst)
+Helen Sherwood-Taylor ([helenst](https://github.com/helenst))
 
-[henadaus](https://github.com/henadaus)
+Hena Firdaus ([henadaus](https://github.com/henadaus))
 
-[hollyschinsky](https://github.com/hollyschinsky)
+Holly Schinsky ([hollyschinsky](https://github.com/hollyschinsky))
 
-[Jackie Luo](https://github.com/jackiehluo)
+Jackie Luo ([jackiehluo](https://github.com/jackiehluo))
 
-[Jennifer Apacible](https://github.com/japacible)
+Jennifer Apacible ([japacible](https://github.com/japacible))
 
-[jennschiffer](https://github.com/jennschiffer)
+Santa Claus ([jennschiffer](https://github.com/jennschiffer))
 
-[Jess Frazelle](https://github.com/jfrazelle)
+Jess Frazelle ([jfrazelle](https://github.com/jfrazelle))
 
-[Jessica Lord](https://github.com/jlord)
+Jessica Lord ([jlord](https://github.com/jlord))
 
-[jig08](https://github.com/jig08)
+Jigyasa Grover ([jig08](https://github.com/jig08))
 
-[Joanna Rutkowska](https://github.com/rootkovska)
+Joanna Rutkowska ([rootkovska](https://github.com/rootkovska))
 
-[Julia Evans](https://github.com/jvns)
+Julia Evans ([jvns](https://github.com/jvns))
 
-[Kathryn Hodge](https://github.com/blondiebytes)
+Kathryn Hodge ([blondiebytes](https://github.com/blondiebytes))
 
-[katydecorah](https://github.com/katydecorah)
+Katy DeCorah ([katydecorah](https://github.com/katydecorah))
 
-[kcunning](https://github.com/kcunning)
+Katie Cunningham ([kcunning](https://github.com/kcunning))
 
-[Kesha Shah](https://github.com/keshashah)
+Kesha Shah ([keshashah](https://github.com/keshashah))
 
-[Kirti Thorat](https://github.com/kirtithorat)
+Kirti Thorat ([kirtithorat](https://github.com/kirtithorat))
 
-[kytrinyx](https://github.com/kytrinyx)
+Katrina Owen ([kytrinyx](https://github.com/kytrinyx))
 
-[Laura Frank](https://github.com/rheinwein)
+Laura Frank ([rheinwein](https://github.com/rheinwein))
 
-[LeaVerou](https://github.com/LeaVerou)
+Lea Verou ([LeaVerou](https://github.com/LeaVerou))
 
-[loiane](https://github.com/loiane)
+Loiane Groner ([loiane](https://github.com/loiane))
 
-[Mary Rose Cook](https://github.com/maryrosecook)
+Mary Rose Cook ([maryrosecook](https://github.com/maryrosecook))
 
-[Maxime Chevalier-Boisvert](https://github.com/maximecb)
+Maxime Chevalier-Boisvert ([maximecb](https://github.com/maximecb))
 
-[Misty De Meo](https://github.com/mistydemeo)
+Misty De Meo ([mistydemeo](https://github.com/mistydemeo))
 
-[Molly Everett](https://github.com/mollymorphic)
+Molly Everett ([mollymorphic](https://github.com/mollymorphic))
 
-[mrrrgn](https://github.com/mrrrgn)
+Morgan Phillips ([mrrrgn](https://github.com/mrrrgn))
 
-[Nerdylicious](https://github.com/Nerdylicious)
+Irish Medina ([Nerdylicious](https://github.com/Nerdylicious))
 
-[Niharika Kohli](https://github.com/Niharika29)
+Niharika Kohli ([Niharika29](https://github.com/Niharika29))
 
-[nirea](https://github.com/nirea)
+Nirea ([nirea](https://github.com/nirea))
 
-[Nitika Agarwal](https://github.com/NitikaAgarwal)
+Nitika Agarwal ([NitikaAgarwal](https://github.com/NitikaAgarwal))
 
-[nlhkabu](https://github.com/nlhkabu)
+Nicole Harris ([nlhkabu](https://github.com/nlhkabu))
 
-[nrrrdcore](https://github.com/nrrrdcore)
+Julie Ann Horvath ([nrrrdcore](https://github.com/nrrrdcore))
 
-[olasitarska](https://github.com/olasitarska)
+Ola Sitarska ([olasitarska](https://github.com/olasitarska))
 
-[patjouk](https://github.com/patjouk)
+Lucie ([patjouk](https://github.com/patjouk))
 
-[phoenixperry](https://github.com/phoenixperry)
+Phoenix Perry ([phoenixperry](https://github.com/phoenixperry))
 
-[poteto](https://github.com/poteto)
+Lauren Tan ([poteto](https://github.com/poteto))
 
-[rallytime](https://github.com/rallytime)
+Nicole Thomas ([rallytime](https://github.com/rallytime))
 
-[Raquel Vélez](https://github.com/rockbot)
+Raquel Vélez ([rockbot](https://github.com/rockbot))
 
-[Rashmi Yadav](https://github.com/raysrashmi)
+Rashmi Yadav ([raysrashmi](https://github.com/raysrashmi))
 
-[Rebecca Turner](https://github.com/iarna)
+Rebecca Turner ([iarna](https://github.com/iarna))
 
-[rmurphey](https://github.com/rmurphey)
+Rebecca Murphey ([rmurphey](https://github.com/rmurphey))
 
-[rmw](https://github.com/rmw)
+Rebecca Miller-Webster ([rmw](https://github.com/rmw))
 
-[RobinSmithCA](https://github.com/robinsmithca)
+RobinSmithCA ([robinsmithca](https://github.com/robinsmithca))
 
-[Sarah Masud](https://github.com/sara-02)
+Sarah Masud ([sara-02](https://github.com/sara-02))
 
-[Sarah Mei](https://github.com/sarahmei)
+Sarah Mei ([sarahmei](https://github.com/sarahmei))
 
-[sareg0](https://github.com/sareg0)
+Sareg0 ([sareg0](https://github.com/sareg0))
 
-[sharon-lin](https://github.com/sharon-lin)
+Sharon Lin ([sharon-lin](https://github.com/sharon-lin))
 
-[shaunagm](https://github.com/shaunagm)
+Shaunagm ([shaunagm](https://github.com/shaunagm))
 
-[shubheksha](https://github.com/shubheksha)
+Shubheksha ([shubheksha](https://github.com/shubheksha))
 
-[sindhus](https://github.com/sindhus)
+Sindhu S ([sindhus](https://github.com/sindhus))
 
-[snipe](https://github.com/snipe)
+Snipe ([snipe](https://github.com/snipe))
 
-[Swati Maheshwari](https://github.com/SwatiMaheshwari)
+Swati Maheshwari ([SwatiMaheshwari](https://github.com/SwatiMaheshwari))
 
-[Sushmita Singh](https://github.com/wallflower1)
+Sushmita Singh ([wallflower1](https://github.com/wallflower1))
 
-[svaksha](https://github.com/svaksha)
+Svaksha ([svaksha](https://github.com/svaksha))
 
-[tanyaschlusser](https://github.com/tanyaschlusser)
+Tanya Schlusser ([tanyaschlusser](https://github.com/tanyaschlusser))
 
-[tapasweni-pathak](https://github.com/tapasweni-pathak)
+Tapasweni Pathak ([tapasweni-pathak](https://github.com/tapasweni-pathak))
 
-[thefoxis](https://github.com/thefoxis)
+Karolina Szczur ([thefoxis](https://github.com/thefoxis))
 
-[thatdocslady](https://github.com/thatdocslady)
+Mikey Ariel ([thatdocslady](https://github.com/thatdocslady))
 
-[tpinecone](https://github.com/tpinecone)
+Terian Koscik ([tpinecone](https://github.com/tpinecone))
 
-[webchick](https://github.com/webchick)
+Angie Byron ([webchick](https://github.com/webchick))
 
-[willingc](https://github.com/willingc)
+Carol Willing ([willingc](https://github.com/willingc))
 
-[y4smeen](https://github.com/y4smeen)
+Yasmeen Roumie ([y4smeen](https://github.com/y4smeen))
 
-[YesCT](https://github.com/YesCT)
+Cathy Theys ([YesCT](https://github.com/YesCT))
 
-[Zeya Umayya](https://github.com/zeya2u9)
+Zeya Umayya ([zeya2u9](https://github.com/zeya2u9))
 
+**Format**: Full Name (\[username\](github profile url)).
 
 ####Links
 
