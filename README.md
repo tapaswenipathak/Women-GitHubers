@@ -165,6 +165,8 @@ Sindhu S ([sindhus](https://github.com/sindhus))
 
 Snipe ([snipe](https://github.com/snipe))
 
+Swati Garg ([Swati4star](https://github.com/Swati4star))
+
 Swati Maheshwari ([SwatiMaheshwari](https://github.com/SwatiMaheshwari))
 
 Sushmita Singh ([wallflower1](https://github.com/wallflower1))
