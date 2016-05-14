@@ -99,6 +99,8 @@ Katy DeCorah ([katydecorah](https://github.com/katydecorah))
 
 Kesha Shah ([keshashah](https://github.com/keshashah))
 
+Keerthana P G  ([keerthanpg](https://github.com/keerthanpg))
+
 Kirti Thorat ([kirtithorat](https://github.com/kirtithorat))
 
 Laura ([alicetragedy](https://github.com/alicetragedy))
