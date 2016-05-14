@@ -95,6 +95,8 @@ Katie Cunningham ([kcunning](https://github.com/kcunning))
 
 Kesha Shah ([keshashah](https://github.com/keshashah))
 
+Keerthana P G  ([keerthanpg](https://github.com/keerthanpg))
+
 Kirti Thorat ([kirtithorat](https://github.com/kirtithorat))
 
 Katrina Owen ([kytrinyx](https://github.com/kytrinyx))

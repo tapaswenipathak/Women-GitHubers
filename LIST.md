@@ -43,6 +43,7 @@
 - [jvns](https://github.com/jvns)
 - [katydecorah](https://github.com/katydecorah)
 - [kcunning](https://github.com/kcunning)
+- [keerthanpg](https://github.com/keerthanpg)
 - [kirtithorat](https://github.com/kirtithorat)
 - [kytrinyx](https://github.com/kytrinyx)
 - [LeaVerou](https://github.com/LeaVerou)
