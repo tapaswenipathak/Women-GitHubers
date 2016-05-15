@@ -45,6 +45,8 @@ Chhavi P. Gupta ([chhavip](https://github.com/chhavip))
 
 Chiu-Ki Chan ([chiuki](https://github.com/chiuki))
 
+Clare Corthell ([clarecorthell](https://github.com/clarecorthell))
+
 Damini Satya ([daminisatya](https://github.com/daminisatya))
 
 Divya Upadhyay ([divyaupadhyay](https://github.com/divyaupadhyay))
@@ -62,6 +64,8 @@ Emmanuelle Gouillart ([emmanuelle](https://github.com/emmanuelle))
 Farheen Nilofer ([Farheen2302](https://github.com/Farheen2302))
 
 Heather Brysiewicz ([hbrysiewicz](https://github.com/hbrysiewicz))
+
+Heena Mahour ([fallacy321](https://github.com/fallacy321))
 
 Helen Sherwood-Taylor ([helenst](https://github.com/helenst))
 
@@ -190,6 +194,8 @@ Tanya Schlusser ([tanyaschlusser](https://github.com/tanyaschlusser))
 Tapasweni Pathak ([tapasweni-pathak](https://github.com/tapasweni-pathak))
 
 Terian Koscik ([tpinecone](https://github.com/tpinecone))
+
+Vaibhavi Desai ([desaivaibhavi](https://github.com/desaivaibhavi))
 
 Yasmeen Roumie ([y4smeen](https://github.com/y4smeen))
 
