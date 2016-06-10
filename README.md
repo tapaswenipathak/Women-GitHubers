@@ -19,6 +19,8 @@ Ankita Shukla ([ankitashukla](https://github.com/ankitashukla))
 
 Anna Warzecha ([aniav](https://github.com/aniav))
 
+Annu Joshi ([AnnuJoshi](https://github.com/AnnuJoshi))
+
 Anuja Kumar ([AnujaK](https://github.com/AnujaK))
 
 Ari VanIderstine ([arirawr](https://github.com/arirawr))
@@ -133,6 +135,8 @@ Molly Everett ([mollymorphic](https://github.com/mollymorphic))
 
 Morgan Phillips ([mrrrgn](https://github.com/mrrrgn))
 
+Nancy ([nancys03](https://github.com/nancys03))
+
 Nicole Harris ([nlhkabu](https://github.com/nlhkabu))
 
 Nicole Thomas ([rallytime](https://github.com/rallytime))
@@ -159,7 +163,13 @@ Rebecca Turner ([iarna](https://github.com/iarna))
 
 RobinSmithCA ([robinsmithca](https://github.com/robinsmithca))
 
+Ruchika Salwan ([Ruchika8](https://github.com/Ruchika8))
+
 Santa Claus ([jennschiffer](https://github.com/jennschiffer))
+
+Sanya Khurana ([sanyagithub](https://github.com/sanyagithub))
+
+Sarah Guido ([sarguido](https://github.com/sarguido))
 
 Sarah Masud ([sara-02](https://github.com/sara-02))
 
