@@ -3,6 +3,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 **Note**: Please maintain the below list in alphabetical order.
 
+Aditi Gupta ([aditigupta96](https://github.com/aditigupta96))
+
 Amanda Harlin ([amandaharlin](https://github.com/amandaharlin))
 
 Amber Yust ([ayust](https://github.com/ayust))
