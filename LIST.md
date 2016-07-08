@@ -77,6 +77,7 @@
 - [sareg0](https://github.com/sareg0)
 - [sharon-lin](https://github.com/sharon-lin)
 - [shaunagm](https://github.com/shaunagm)
+- [shivan1b](https://github.com/shivan1b)
 - [shubheksha](https://github.com/shubheksha)
 - [sindhus](https://github.com/sindhus)
 - [snipe](https://github.com/snipe)
