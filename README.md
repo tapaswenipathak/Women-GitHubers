@@ -153,6 +153,8 @@ Ola Sitarska ([olasitarska](https://github.com/olasitarska))
 
 Phoenix Perry ([phoenixperry](https://github.com/phoenixperry))
 
+Prachi Manchanda([prachi1210](https://github.com/prachi1210))
+
 Raquel Vélez ([rockbot](https://github.com/rockbot))
 
 Rashmi Yadav ([raysrashmi](https://github.com/raysrashmi))
