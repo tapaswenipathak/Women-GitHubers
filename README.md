@@ -129,6 +129,8 @@ Maxime Chevalier-Boisvert ([maximecb](https://github.com/maximecb))
 
 Mikey Ariel ([thatdocslady](https://github.com/thatdocslady))
 
+Minerva Panda ([minervapanda](https://github.com/minervapanda))
+
 Misty De Meo ([mistydemeo](https://github.com/mistydemeo))
 
 Molly Everett ([mollymorphic](https://github.com/mollymorphic))
