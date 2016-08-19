@@ -1,4 +1,4 @@
-# Women-GitHubers
+﻿# Women-GitHubers
 Let's collect the data of Woman on GitHub, who inspired you to code more, learn more.
 
 **Note**: Please maintain the below list in alphabetical order.
@@ -164,6 +164,8 @@ Rebecca Miller-Webster ([rmw](https://github.com/rmw))
 Rebecca Murphey ([rmurphey](https://github.com/rmurphey))
 
 Rebecca Turner ([iarna](https://github.com/iarna))
+
+Riddhi Kakadia ([riddhik84](https://github.com/riddhik84))
 
 RobinSmithCA ([robinsmithca](https://github.com/robinsmithca))
 
