@@ -199,6 +199,8 @@ Sindhu S ([sindhus](https://github.com/sindhus))
 
 Snipe ([snipe](https://github.com/snipe))
 
+Sonali Gupta([sonali0901](https://github.com/sonali0901))
+
 Sushmita Singh ([wallflower1](https://github.com/wallflower1))
 
 Svaksha ([svaksha](https://github.com/svaksha))
