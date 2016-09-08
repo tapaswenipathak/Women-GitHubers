@@ -159,6 +159,8 @@ Phoenix Perry ([phoenixperry](https://github.com/phoenixperry))
 
 Prachi Manchanda([prachi1210](https://github.com/prachi1210))
 
+Priyanka Malviya([priyankamalviya](https://github.com/priyankamalviya))
+
 Raquel Vélez ([rockbot](https://github.com/rockbot))
 
 Rashmi Yadav ([raysrashmi](https://github.com/raysrashmi))
