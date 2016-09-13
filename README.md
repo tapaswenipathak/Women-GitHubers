@@ -91,6 +91,8 @@ Jigyasa Grover ([jig08](https://github.com/jig08))
 
 Joanna Rutkowska ([rootkovska](https://github.com/rootkovska))
 
+Josephine Lim ([misaochan](https://github.com/misaochan))
+
 Julia Evans ([jvns](https://github.com/jvns))
 
 Julie Ann Horvath ([nrrrdcore](https://github.com/nrrrdcore))
