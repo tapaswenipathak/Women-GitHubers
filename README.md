@@ -19,6 +19,8 @@ Anika ([anikalindtner](https://github.com/anikalindtner))
 
 Ankita Shukla ([ankitashukla](https://github.com/ankitashukla))
 
+Amy Palamountain ([ammeep](https://github.com/ammeep))
+
 Anna Warzecha ([aniav](https://github.com/aniav))
 
 Annu Joshi ([AnnuJoshi](https://github.com/AnnuJoshi))
@@ -91,6 +93,8 @@ Jigyasa Grover ([jig08](https://github.com/jig08))
 
 Joanna Rutkowska ([rootkovska](https://github.com/rootkovska))
 
+Jordi Boggiano ([Seldaek](https://github.com/Seldaek))
+
 Josephine Lim ([misaochan](https://github.com/misaochan))
 
 Julia Evans ([jvns](https://github.com/jvns))
@@ -136,6 +140,8 @@ Mikey Ariel ([thatdocslady](https://github.com/thatdocslady))
 Minerva Panda ([minervapanda](https://github.com/minervapanda))
 
 Misty De Meo ([mistydemeo](https://github.com/mistydemeo))
+
+Monica Dinculescu ([notwaldorf](https://github.com/notwaldorf))
 
 Molly Everett ([mollymorphic](https://github.com/mollymorphic))
 
@@ -220,6 +226,8 @@ Tanya Schlusser ([tanyaschlusser](https://github.com/tanyaschlusser))
 Tapasweni Pathak ([tapasweni-pathak](https://github.com/tapasweni-pathak))
 
 Terian Koscik ([tpinecone](https://github.com/tpinecone))
+
+Una Kravets ([una](https://github.com/una))
 
 Vaibhavi Desai ([desaivaibhavi](https://github.com/desaivaibhavi))
 
