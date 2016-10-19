@@ -231,6 +231,8 @@ Una Kravets ([una](https://github.com/una))
 
 Vaibhavi Desai ([desaivaibhavi](https://github.com/desaivaibhavi))
 
+Vanessa Hurst ([DBNess](https://github.com/DBNess))
+
 Yasmeen Roumie ([y4smeen](https://github.com/y4smeen))
 
 Zeya Umayya ([zeya2u9](https://github.com/zeya2u9))
