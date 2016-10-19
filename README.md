@@ -1,6 +1,8 @@
 ﻿# Women-GitHubers
 Let's collect the data of Woman on GitHub, who inspired you to code more, learn more.
 
+Submit names by adding them in README.md and not list.md.
+
 **Note**: Please maintain the below list in alphabetical order.
 
 Aditi Gupta ([aditigupta96](https://github.com/aditigupta96))
