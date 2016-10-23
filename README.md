@@ -205,6 +205,8 @@ Sharon Lin ([sharon-lin](https://github.com/sharon-lin))
 
 Shaunagm ([shaunagm](https://github.com/shaunagm))
 
+Shivani Bhardwaj ([shivan1b](https://github.com/shivan1b))
+
 Shubheksha ([shubheksha](https://github.com/shubheksha))
 
 Sindhu S ([sindhus](https://github.com/sindhus))
