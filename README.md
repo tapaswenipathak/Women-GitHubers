@@ -169,6 +169,8 @@ Phoenix Perry ([phoenixperry](https://github.com/phoenixperry))
 
 Prachi Manchanda([prachi1210](https://github.com/prachi1210))
 
+Pragya Jaiswal ([PragyaJaiswal](https://github.com/PragyaJaiswal))
+
 Priyanka Malviya([priyankamalviya](https://github.com/priyankamalviya))
 
 Raquel Vélez ([rockbot](https://github.com/rockbot))
@@ -208,6 +210,8 @@ Shaunagm ([shaunagm](https://github.com/shaunagm))
 Shivani Bhardwaj ([shivan1b](https://github.com/shivan1b))
 
 Shubheksha ([shubheksha](https://github.com/shubheksha))
+
+Simmi Mourya ([simmimourya1](https://github.com/simmimourya1))
 
 Sindhu S ([sindhus](https://github.com/sindhus))
 
