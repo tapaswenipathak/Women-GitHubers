@@ -85,6 +85,8 @@ Holly Schinsky ([hollyschinsky](https://github.com/hollyschinsky))
 
 Irish Medina ([Nerdylicious](https://github.com/Nerdylicious))
 
+Ilze Dombrovska ([ilze-d](https://github.com/ilze-d))
+
 Jackie Luo ([jackiehluo](https://github.com/jackiehluo))
 
 Jennifer Apacible ([japacible](https://github.com/japacible))
