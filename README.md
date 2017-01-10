@@ -137,6 +137,8 @@ Lucie ([patjouk](https://github.com/patjouk))
 
 Lynn Root ([econchick](https://github.com/econchick))
 
+Mansimar Kaur ([mansimarkaur](https://github.com/mansimarkaur))
+
 Mary Rose Cook ([maryrosecook](https://github.com/maryrosecook))
 
 Maxime Chevalier-Boisvert ([maximecb](https://github.com/maximecb))
