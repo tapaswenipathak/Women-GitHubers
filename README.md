@@ -1,4 +1,4 @@
-﻿# Women-GitHubers
+# Women-GitHubers
 
 Let's collect the data of Woman on GitHub, who inspired you to code more, learn more.
 
