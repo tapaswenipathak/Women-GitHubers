@@ -44,6 +44,8 @@ Audrey Roy Greenfeld ([audreyr](https://github.com/audreyr))
 
 Bhavika Tekwani ([bhavikat](https://github.com/bhavikat))
 
+Bon Crowder ([mathfour](https://github.com/mathfour))
+
 Carol Willing ([willingc](https://github.com/willingc))
 
 Cassidy Williams ([cassidoo](https://github.com/cassidoo))
@@ -205,6 +207,8 @@ Sarah Guido ([sarguido](https://github.com/sarguido))
 Sarah Masud ([sara-02](https://github.com/sara-02))
 
 Sarah Mei ([sarahmei](https://github.com/sarahmei))
+
+Sarah Worthy ([sarahmworthy](https://github.com/sarahmworthy))
 
 Sareg0 ([sareg0](https://github.com/sareg0))
 
