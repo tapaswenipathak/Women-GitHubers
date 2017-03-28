@@ -255,6 +255,8 @@ Zeya Umayya ([zeya2u9](https://github.com/zeya2u9))
 
 唐鳳 ([audreyt](https://github.com/audreyt))
 
+Swechha jha ([swekshajha12](https://github.com/swekshajha12))
+
 
 **Format**: Full Name (\[username\](github profile url)).
 
