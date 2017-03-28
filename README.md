@@ -235,6 +235,8 @@ Swati Garg ([Swati4star](https://github.com/Swati4star))
 
 Swati Maheshwari ([SwatiMaheshwari](https://github.com/SwatiMaheshwari))
 
+Tanvi Bhatia ([bhatit2](https://github.com/bhatit2))
+
 Tanvi Surana ([tanvi-surana](https://github.com/tanvi-surana))
 
 Tanya Schlusser ([tanyaschlusser](https://github.com/tanyaschlusser))
