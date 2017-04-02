@@ -232,6 +232,8 @@ Sonali Gupta([sonali0901](https://github.com/sonali0901))
 
 Sushmita Singh ([wallflower1](https://github.com/wallflower1))
 
+Sunitha Kumar Girish ([sunifyre](https://github.com/sunifyre))
+
 Svaksha ([svaksha](https://github.com/svaksha))
 
 Svetlana Linuxenko ([linuxenko](https://github.com/linuxenko))
