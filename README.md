@@ -154,6 +154,8 @@ Misty De Meo ([mistydemeo](https://github.com/mistydemeo))
 
 Monica Dinculescu ([notwaldorf](https://github.com/notwaldorf))
 
+Monica Powell ([M0nica](https://github.com/M0nica))
+
 Molly Everett ([mollymorphic](https://github.com/mollymorphic))
 
 Morgan Phillips ([mrrrgn](https://github.com/mrrrgn))
@@ -217,6 +219,8 @@ Shaifali Agrawal ([exploreshaifali](https://github.com/exploreshaifali))
 Sharon Lin ([sharon-lin](https://github.com/sharon-lin))
 
 Shaunagm ([shaunagm](https://github.com/shaunagm))
+
+Shikha Panwar ([shikhapanwar](https://github.com/shikhapanwar))
 
 Shivani Bhardwaj ([shivan1b](https://github.com/shivan1b))
 
