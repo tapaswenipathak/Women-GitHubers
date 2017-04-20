@@ -178,7 +178,7 @@ Ola Sitarska ([olasitarska](https://github.com/olasitarska))
 
 Phoenix Perry ([phoenixperry](https://github.com/phoenixperry))
 
-Pooja Bhaumik([pblead26](https://github.com/PoojaB26))
+Pooja Bhaumik([poojab26](https://github.com/PoojaB26))
 
 Prachi Manchanda([prachi1210](https://github.com/prachi1210))
 
