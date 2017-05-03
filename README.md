@@ -206,6 +206,8 @@ Santa Claus ([jennschiffer](https://github.com/jennschiffer))
 
 Sanya Khurana ([sanyagithub](https://github.com/sanyagithub))
 
+Sapana Jadhav ([SapanaJadhav](https://github.com/SapanaJadhav))
+
 Sarah Guido ([sarguido](https://github.com/sarguido))
 
 Sarah Masud ([sara-02](https://github.com/sara-02))
