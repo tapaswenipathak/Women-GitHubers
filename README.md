@@ -120,6 +120,8 @@ Katrina Owen ([kytrinyx](https://github.com/kytrinyx))
 
 Katy DeCorah ([katydecorah](https://github.com/katydecorah))
 
+Kavitha E Nair ([kavithaenair](https://github.com/kavithaenair))
+
 Kesha Shah ([keshashah](https://github.com/keshashah))
 
 Keerthana P G  ([keerthanpg](https://github.com/keerthanpg))
