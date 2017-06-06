@@ -6,6 +6,8 @@ Submit names by adding them in README.md and not list.md.
 
 **Note**: Please maintain the below list in alphabetical order.
 
+Aastha Gupta([AasthaGupta](https://github.com/AasthaGupta))
+
 Aditi Gupta ([aditigupta96](https://github.com/aditigupta96))
 
 Amanda Harlin ([amandaharlin](https://github.com/amandaharlin))
