@@ -172,6 +172,8 @@ Nicole Thomas ([rallytime](https://github.com/rallytime))
 
 Niharika Kohli ([Niharika29](https://github.com/Niharika29))
 
+Nikhita Raghunath ([nikhita](https://github.com/nikhita))
+
 Nirea ([nirea](https://github.com/nirea))
 
 Nitika Agarwal ([NitikaAgarwal](https://github.com/NitikaAgarwal))
