@@ -94,7 +94,7 @@ Jackie Luo ([jackiehluo](https://github.com/jackiehluo))
 
 Jennifer Apacible ([japacible](https://github.com/japacible))
 
-Jess Frazelle ([jfrazelle](https://github.com/jfrazelle))
+Jess Frazelle ([jfrazelle](https://github.com/jessfraz))
 
 Jessica Lord ([jlord](https://github.com/jlord))
 
