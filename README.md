@@ -94,7 +94,7 @@ Jackie Luo ([jackiehluo](https://github.com/jackiehluo))
 
 Jennifer Apacible ([japacible](https://github.com/japacible))
 
-Jess Frazelle ([jfrazelle](https://github.com/jfrazelle))
+Jess Frazelle ([jfrazelle](https://github.com/jessfraz))
 
 Jessica Lord ([jlord](https://github.com/jlord))
 
@@ -171,6 +171,8 @@ Nicole Harris ([nlhkabu](https://github.com/nlhkabu))
 Nicole Thomas ([rallytime](https://github.com/rallytime))
 
 Niharika Kohli ([Niharika29](https://github.com/Niharika29))
+
+Nikhita Raghunath ([nikhita](https://github.com/nikhita))
 
 Nirea ([nirea](https://github.com/nirea))
 
