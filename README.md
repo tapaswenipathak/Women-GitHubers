@@ -128,6 +128,8 @@ Kesha Shah ([keshashah](https://github.com/keshashah))
 
 Keerthana P G  ([keerthanpg](https://github.com/keerthanpg))
 
+Khyati Soneji  ([khyatisoneji](https://github.com/khyatisoneji))
+
 Kirti Thorat ([kirtithorat](https://github.com/kirtithorat))
 
 Laura ([alicetragedy](https://github.com/alicetragedy))
