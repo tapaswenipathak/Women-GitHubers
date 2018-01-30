@@ -34,6 +34,8 @@ Anubha Kushwaha ([anubhakushwaha](https://github.com/anubhakushwaha))
 
 Anuja Kumar ([AnujaK](https://github.com/AnujaK))
 
+Apoorvaa Gupta ([apoorvaagupta](https://github.com/apoorvaagupta))
+
 Ari VanIderstine ([arirawr](https://github.com/arirawr))
 
 Aria Stewart ([aredridel](https://github.com/aredridel))
