@@ -182,6 +182,8 @@ Nitika Agarwal ([NitikaAgarwal](https://github.com/NitikaAgarwal))
 
 Ola Sitarska ([olasitarska](https://github.com/olasitarska))
 
+Paavini Nanda ([paavininanda](https://github.com/paavininanda))
+
 Phoenix Perry ([phoenixperry](https://github.com/phoenixperry))
 
 Pooja Bhaumik([poojab26](https://github.com/PoojaB26))
