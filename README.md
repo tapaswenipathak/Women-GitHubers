@@ -44,6 +44,8 @@ Ashley Qian ([cranberryofdoom](https://github.com/cranberryofdoom))
 
 Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
 
+Atibhi Agrawal ([aSquare14](https://github.com/aSquare14))
+
 Audrey Roy Greenfeld ([audreyr](https://github.com/audreyr))
 
 Bhavika Tekwani ([bhavikat](https://github.com/bhavikat))
