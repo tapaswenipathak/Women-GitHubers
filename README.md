@@ -40,6 +40,8 @@ Ari VanIderstine ([arirawr](https://github.com/arirawr))
 
 Aria Stewart ([aredridel](https://github.com/aredridel))
 
+Arushi Singhal ([ArushiSinghal](https://github.com/ArushiSinghal))
+
 Ashley Qian ([cranberryofdoom](https://github.com/cranberryofdoom))
 
 Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
