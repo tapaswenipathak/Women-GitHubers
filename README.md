@@ -246,6 +246,8 @@ Shubheksha ([shubheksha](https://github.com/shubheksha))
 
 Simmi Mourya ([simmimourya1](https://github.com/simmimourya1))
 
+Simran Singhal ([simransinghal](https://github.com/simransinghal))
+
 Sindhu S ([sindhus](https://github.com/sindhus))
 
 Snipe ([snipe](https://github.com/snipe))
