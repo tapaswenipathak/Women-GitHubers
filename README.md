@@ -186,6 +186,8 @@ Nikhita Raghunath ([nikhita](https://github.com/nikhita))
 
 Nirea ([nirea](https://github.com/nirea))
 
+Nishi Gaba([NishiGaba](https://github.com/NishiGaba))
+
 Nitika Agarwal ([NitikaAgarwal](https://github.com/NitikaAgarwal))
 
 Ola Sitarska ([olasitarska](https://github.com/olasitarska))
