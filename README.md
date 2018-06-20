@@ -258,6 +258,8 @@ Snipe ([snipe](https://github.com/snipe))
 
 Sonali Gupta([sonali0901](https://github.com/sonali0901))
 
+Sonakshi Saxena([sonakshisaxena1](http://github.com/sonakshisaxena1))
+
 Sushmita Singh ([wallflower1](https://github.com/wallflower1))
 
 Sunitha Kumar Girish ([sunifyre](https://github.com/sunifyre))
