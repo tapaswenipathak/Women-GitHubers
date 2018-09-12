@@ -194,6 +194,8 @@ Ola Sitarska ([olasitarska](https://github.com/olasitarska))
 
 Paavini Nanda ([paavininanda](https://github.com/paavininanda))
 
+Parthvi Vala ([valaparthvi](https://github.com/valaparthvi))
+
 Phoenix Perry ([phoenixperry](https://github.com/phoenixperry))
 
 Pooja Bhaumik([poojab26](https://github.com/PoojaB26))
