@@ -290,6 +290,8 @@ Una Kravets ([una](https://github.com/una))
 
 Vaibhavi Desai ([desaivaibhavi](https://github.com/desaivaibhavi))
 
+Vaibhavi Singh ([Vaibhavi24](https://github.com/Vaibhavi24))
+
 Vanessa Hurst ([DBNess](https://github.com/DBNess))
 
 Yasmeen Roumie ([y4smeen](https://github.com/y4smeen))
