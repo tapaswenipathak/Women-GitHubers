@@ -232,6 +232,8 @@ RobinSmithCA ([robinsmithca](https://github.com/robinsmithca))
 
 Ruchika Salwan ([Ruchika8](https://github.com/Ruchika8))
 
+Rutuja Rajesh ([rutujar](https://github.com/rutujar))
+
 Santa Claus ([jennschiffer](https://github.com/jennschiffer))
 
 Sanya Khurana ([sanyagithub](https://github.com/sanyagithub))
