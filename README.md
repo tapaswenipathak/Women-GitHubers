@@ -180,6 +180,8 @@ Molly Everett ([mollymorphic](https://github.com/mollymorphic))
 
 Morgan Phillips ([mrrrgn](https://github.com/mrrrgn))
 
+Moyinoluwa Adeyemi ([moyheen](https://github.com/moyheen))
+
 Nancy ([nancys03](https://github.com/nancys03))
 
 Nelly Kiboi ([nellyk](https://github.com/nellyk))
