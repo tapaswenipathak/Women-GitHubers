@@ -76,6 +76,8 @@ Damini Satya ([daminisatya](https://github.com/daminisatya))
 
 Divya Upadhyay ([divyaupadhyay](https://github.com/divyaupadhyay))
 
+Egwuenu Gift ([lauragift21](https://github.com/lauragift21))
+
 Elana Hashman ([ehashman](https://github.com/ehashman))
 
 Eleonore ([Eleonore9](https://github.com/Eleonore9))
