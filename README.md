@@ -58,6 +58,8 @@ Bhavika Tekwani ([bhavikat](https://github.com/bhavikat))
 
 Bon Crowder ([mathfour](https://github.com/mathfour))
 
+Carlie Thomas ([cthomas88] (https://github.com/cthomas88))
+
 Carol Willing ([willingc](https://github.com/willingc))
 
 Cassidy Williams ([cassidoo](https://github.com/cassidoo))
