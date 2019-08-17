@@ -215,7 +215,7 @@ Nirea ([nirea](https://github.com/nirea))
 
 Nishi Gaba([NishiGaba](https://github.com/NishiGaba))
 
-Nitika Agarwal ([NitikaAgarwal](https://github.com/NitikaAgarwal))
+Nitika Agarwal ([nitikagarw](https://github.com/nitikagarw))
 
 Ola Sitarska ([olasitarska](https://github.com/olasitarska))
 
