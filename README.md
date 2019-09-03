@@ -309,7 +309,7 @@ Tanvi Surana ([tanvi-surana](https://github.com/tanvi-surana))
 
 Tanya Schlusser ([tanyaschlusser](https://github.com/tanyaschlusser))
 
-Tapasweni Pathak ([tapasweni-pathak](https://github.com/tapasweni-pathak))
+Tapasweni Pathak ([tapaswenipathak](https://github.com/tapaswenipathak))
 
 Terian Koscik ([tpinecone](https://github.com/tpinecone))
 
