@@ -155,6 +155,8 @@ Khyati Soneji  ([khyatisoneji](https://github.com/khyatisoneji))
 
 Kirti Thorat ([kirtithorat](https://github.com/kirtithorat))
 
+Krystyna Lopez ([lozinska](https://github.com/lozinska))
+
 Laura ([alicetragedy](https://github.com/alicetragedy))
 
 Laura Frank ([rheinwein](https://github.com/rheinwein))
