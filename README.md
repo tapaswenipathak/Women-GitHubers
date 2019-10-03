@@ -97,7 +97,9 @@ Emma Jane ([emmajane](https://github.com/emmajane))
 
 Emmanuelle Gouillart ([emmanuelle](https://github.com/emmanuelle))
 
-Farheen Nilofer ([Farheen2302](https://github.com/Farheen2302))
+Farheen Nilofer ([Farheen2302](https://github.com/Farheen2302))  
+
+Florina Muntenescu [florina-muntenescu](https://github.com/florina-muntenescu)
 
 Heather Brysiewicz ([hbrysiewicz](https://github.com/hbrysiewicz))
 
