@@ -65,7 +65,7 @@ Bhavika Tekwani ([bhavikat](https://github.com/bhavikat))
 
 Bon Crowder ([mathfour](https://github.com/mathfour))
 
-Carlie Thomas ([cthomas88] (https://github.com/cthomas88))
+Carlie Thomas ([cthomas88](https://github.com/cthomas88))
 
 Carol Willing ([willingc](https://github.com/willingc))
 
@@ -174,6 +174,8 @@ Loiane Groner ([loiane](https://github.com/loiane))
 Lucie ([patjouk](https://github.com/patjouk))
 
 Lynn Root ([econchick](https://github.com/econchick))
+
+Mamata Gelanee ([mamatagelanee07](https://github.com/mamatagelanee07))
 
 Mansimar Kaur ([mansimarkaur](https://github.com/mansimarkaur))
 
