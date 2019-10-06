@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/-Women%20GitHubers-blueviolet.svg)
 
 # Women-GitHubers
+[![Build Status](https://travis-ci.org/tapaswenipathak/Women-GitHubers.svg?branch=master)](https://travis-ci.org/tapaswenipathak/Women-GitHubers)
 [![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Women-GitHubers.svg)](https://github.com/tapaswenipathak/Women-GitHubers/issues)
 [![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Women-GitHubers.svg)](https://github.com/tapaswenipathak/Women-GitHubers/network)
 [![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Women-GitHubers.svg)](https://github.com/tapaswenipathak/Women-GitHubers/stargazers)
