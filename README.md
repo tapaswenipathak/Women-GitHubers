@@ -113,8 +113,6 @@ Holly Schinsky ([hollyschinsky](https://github.com/hollyschinsky))
 
 Ire Aderinokun ([ireade](https://github.com/ireade))
 
-Irish Medina ([Nerdylicious](https://github.com/Nerdylicious))
-
 Ilze Dombrovska ([ilze-d](https://github.com/ilze-d))
 
 Jackie Luo ([jackiehluo](https://github.com/jackiehluo))
@@ -285,8 +283,6 @@ Shivani Bhardwaj ([shivan1b](https://github.com/shivan1b))
 
 Shubheksha ([shubheksha](https://github.com/shubheksha))
 
-Simmi Mourya ([simmimourya1](https://github.com/simmimourya1))
-
 Simran Singhal ([simransinghal](https://github.com/simransinghal))
 
 Sindhu S ([sindhus](https://github.com/sindhus))
@@ -326,8 +322,6 @@ Vaibhavi Desai ([desaivaibhavi](https://github.com/desaivaibhavi))
 Vaibhavi Singh ([Vaibhavi24](https://github.com/Vaibhavi24))
 
 Vanessa Hurst ([DBNess](https://github.com/DBNess))
-
-Yasmeen Roumie ([y4smeen](https://github.com/y4smeen))
 
 Zeya Umayya ([zeya2u9](https://github.com/zeya2u9))
 
