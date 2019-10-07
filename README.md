@@ -17,6 +17,8 @@ Aastha Gupta([AasthaGupta](https://github.com/AasthaGupta))
 
 Aditi Gupta ([aditigupta96](https://github.com/aditigupta96))
 
+Aditi Pancholi ([aditipancholi](https://github.com/aditipancholi))
+
 Aditi Srinivas ([aditisrinivas97](https://github.com/aditisrinivas97))
 
 Amanda Harlin ([amandaharlin](https://github.com/amandaharlin))
