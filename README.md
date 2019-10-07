@@ -126,7 +126,7 @@ Jess Frazelle ([jfrazelle](https://github.com/jessfraz))
 
 Jessica Lord ([jlord](https://github.com/jlord))
 
-Jigyasa Grover ([jig08](https://github.com/jig08))
+Jigyasa Grover ([jigyasa-grover](https://github.com/jigyasa-grover))
 
 Joanna Rutkowska ([rootkovska](https://github.com/rootkovska))
 
