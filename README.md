@@ -78,6 +78,8 @@ Cassidy Williams ([cassidoo](https://github.com/cassidoo))
 
 Cathy Theys ([YesCT](https://github.com/YesCT))
 
+Charmi Choksi ([charmichokshi](https://github.com/charmichokshi))
+
 Chelsea Voss ([csvoss](https://github.com/csvoss))
 
 Chhavi P. Gupta ([chhavip](https://github.com/chhavip))
@@ -159,6 +161,8 @@ Keerthana P G  ([keerthanpg](https://github.com/keerthanpg))
 Khyati Soneji  ([khyatisoneji](https://github.com/khyatisoneji))
 
 Kirti Thorat ([kirtithorat](https://github.com/kirtithorat))
+
+Krupa Galiya ([krupagaliya](https://github.com/krupagaliya))
 
 Krystyna Lopez ([lozinska](https://github.com/lozinska))
 
@@ -321,6 +325,8 @@ Tanya Schlusser ([tanyaschlusser](https://github.com/tanyaschlusser))
 Tapasweni Pathak ([tapaswenipathak](https://github.com/tapaswenipathak))
 
 Terian Koscik ([tpinecone](https://github.com/tpinecone))
+
+Tleja ([tleja](https://github.com/tleija))
 
 Una Kravets ([una](https://github.com/una))
 
