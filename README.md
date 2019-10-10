@@ -1,3 +1,5 @@
+**Note: The project is in archive state (unmaintained) until I find a maintainer, I will not be maintaining any further.**
+
 ![](https://img.shields.io/badge/-Women%20GitHubers-blueviolet.svg)
 
 # Women-GitHubers
